@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Payments>
+    <Payment>
+        <orderId>1</orderId>
+        <item>ROUTER</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>2</orderId>
+        <item>SWITCH</item>
+        <value>35</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>3</orderId>
+        <item>LAPTOP</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+</Payments>

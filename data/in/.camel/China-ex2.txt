@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Payments>
+    <Payment>
+        <orderId>7</orderId>
+        <item>TOASTER</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>8</orderId>
+        <item>INFLATABLE_POOL</item>
+        <value>35</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>9</orderId>
+        <item>MASSAGE_CHAIR</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+</Payments>
