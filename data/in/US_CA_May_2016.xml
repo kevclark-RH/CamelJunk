@@ -1,0 +1,65 @@
+<Payments>
+    <Payment>
+        <orderId>19</orderId>
+        <item>BACK_SCRATCHER</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>20</orderId>
+        <item>HDMI_CABLE</item>
+        <value>35</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>21</orderId>
+        <item>JUMP_ROPE</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>22</orderId>
+        <item>BICYCLE_WHEEL</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>23</orderId>
+        <item>SOCKET_WRENCH</item>
+        <value>35</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>24</orderId>
+        <item>FLIP_PHONE</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>25</orderId>
+        <item>WARRIORS_MEMENTO</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>26</orderId>
+        <item>RECREATIONAL_VEHICLE</item>
+        <value>3500</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>27</orderId>
+        <item>TEMPUR_PEDIC_DELUXE</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+</Payments>

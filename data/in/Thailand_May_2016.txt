@@ -1,0 +1,65 @@
+<Payments>
+    <Payment>
+        <orderId>1</orderId>
+        <item>ROUTER</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>2</orderId>
+        <item>SWITCH</item>
+        <value>35</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>3</orderId>
+        <item>LAPTOP</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>4</orderId>
+        <item>TOASTER</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>5</orderId>
+        <item>MICROWAVE</item>
+        <value>35</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>6</orderId>
+        <item>OVEN_MITTS</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>7</orderId>
+        <item>DESK_CHAIR</item>
+        <value>25</value>
+        <monetary>USD</monetary>
+        <customer>JOHN DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>8</orderId>
+        <item>WACKY_WAVING_INFLATABLE_ARM-FLAILING_TUBMAN</item>
+        <value>35</value>
+        <monetary>USD</monetary>
+        <customer>MARY DOE</customer>
+    </Payment>
+    <Payment>
+        <orderId>9</orderId>
+        <item>PAPERCLIPS</item>
+        <value>1400</value>
+        <monetary>USD</monetary>
+        <customer>MARK DOE</customer>
+    </Payment>
+</Payments>
