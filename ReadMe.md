@@ -1,21 +1,23 @@
-Camel CDI Example
+CamelJunk code
 =================
 
-This example shows how to work with Camel in the Java Container using CDI to configure components,
-endpoints and beans.
+This project was written during the completion of JB421 to implement, test, and play with Camel concepts
+The course examples use outdated versions of Fuse products that have, in some cases changed drastically.
+I reimplemented equivalent camel concepts during completion of the course to manually work with the data
+types and integration patterns.
 
-The example generates messages using timer trigger, writes them to the standard output and the mock
-endpoint (for testing purposes).
+This package is intended to be a repository of WORKING CODE, so that anyone can reference their own implementation
+with this repo if they encounter problems
+
+Individual java classes will have comments at the top indicating their purpose and relevant section from the course.
+
+
 
 You will need to compile this example first:
   mvn install
 
 To run the example type
-  mvn camel:run
-
-You will see the message printed to the console every 5th second.
-
-To stop the example hit ctrl + c
+  mvn clean package exec:java 
 
 For more help see the Apache Camel documentation
 
